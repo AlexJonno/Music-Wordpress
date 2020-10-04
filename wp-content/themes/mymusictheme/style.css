@@ -1,0 +1,26 @@
+/*
+
+Theme Name: Music Blog
+Text Domain: AJ
+Version: 1.0
+Description: Cool Responsive Music Blog
+Tags: Music Blog Responsive
+Author: Alex Johnston
+Author URI: https://youtube.com
+
+*/
+@media (min-width: 992px){
+a{
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color:#212529;
+} 
+}
+
+.nav-item > a {
+color: white;
+}
+
+.main-nav-logo{
+    height:54px;
+}
